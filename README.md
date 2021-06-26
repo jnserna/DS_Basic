@@ -1,10 +1,14 @@
 # Data Science - Curso Intoductorio - (Python)
 
-El material de este curso es introductorio y presenta conceptos básicos sobre estadística y análisis básico de los datasets.
+El material de este curso es introductorio y presenta conceptos básicos sobre estadística y análisis inicial de conjuntos de datos.
 
 Los notebooks y las ayudas visuales son material de soporte a clases.
 
-La base de ejecución de los notebooks de Jupyter es Python.
+La base de ejecución de los notebooks de Jupyter es Python. Para ver información detallada del lenguaje, se sugiere ver la documentación [aquí](http://ipython.org/documentation.html).
+
+Para la ejecución de los notebooks se recomienda instalar Anaconda y ejecutarlos usando [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
+
+Ver Manual básico de instalación de Anaconda.
 
 # Contenido
 
