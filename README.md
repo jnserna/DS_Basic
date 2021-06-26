@@ -8,11 +8,11 @@ La base de ejecución de los notebooks de Jupyter es Python. Para ver informaci�
 
 Para la ejecución de los notebooks se recomienda instalar Anaconda y ejecutarlos usando [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
 
-Ver Manual básico de instalación de Anaconda [aquí](https://github.com/jnserna/DS_Basic/blob/main/Intro/Clase_1_B_Descargar%20Anaconda%20%2B%20Python%20ini.pptx).
+Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.com/jnserna/DS_Basic/blob/main/Intro/Clase_1_B_Descargar%20Anaconda%20%2B%20Python%20ini.pptx).
 
 # Contenido
 
-1 - Introducción a la Ciencia de datos
+1 - [Introducción a la Ciencia de datos](https://github.com/jnserna/DS_Basic/tree/main/Intro)
 
 2 - Python como lenguaje de Ciencia de datos
 
