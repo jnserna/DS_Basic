@@ -14,7 +14,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 1 - [Introducción a la Ciencia de datos](https://github.com/jnserna/DS_Basic/tree/main/Intro)
 
-2 - Python como lenguaje de Ciencia de datos
+2 - [Python como lenguaje de Ciencia de datos](https://github.com/jnserna/DS_Basic/tree/main/Python%20en%20DS%20%2B%20Numpy)
 
 3 - Estadística básica
 
