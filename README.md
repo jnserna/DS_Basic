@@ -1,5 +1,5 @@
 # Data Science - Curso Intoductorio (Python)
-# Data Science - Basic course (Python)
+# Data Science - Basic level (Python)
 
 El material de este curso es introductorio y presenta conceptos básicos sobre estadística y análisis inicial de conjuntos de datos.
 
