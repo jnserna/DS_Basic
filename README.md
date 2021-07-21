@@ -19,7 +19,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 3 - [Estadística básica](https://github.com/jnserna/DS_Basic/tree/main/Estad%C3%ADstica%20b%C3%A1sica)
 
-4 - Distribuciones de probabilidad
+4 - [Distribuciones de probabilidad](https://github.com/jnserna/DS_Basic/tree/main/Distribuciones%20de%20probabilidad)
 
 5 - Análisis predictivo y Machine learning
 
