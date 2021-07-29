@@ -21,7 +21,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 4 - [Distribuciones de probabilidad](https://github.com/jnserna/DS_Basic/tree/main/Distribuciones%20de%20probabilidad)
 
-5 - Análisis predictivo y Machine learning
+5 - [Análisis predictivo y Machine learning](https://github.com/jnserna/DS_Basic/tree/main/An%C3%A1lisis%20predictivo%20y%20ML)
 
 6 - Preprocesamiento de datos
 
