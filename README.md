@@ -23,7 +23,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 5 - [Análisis predictivo y Machine learning](https://github.com/jnserna/DS_Basic/tree/main/An%C3%A1lisis%20predictivo%20y%20ML)
 
-6 - Preprocesamiento de datos
+6 - [Preprocesamiento de datos](https://github.com/jnserna/DS_Basic/tree/main/Preprocesamiento%20de%20datos)
 
 7 - Operaciones básicas con datasets
 
