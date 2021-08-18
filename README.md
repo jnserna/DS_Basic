@@ -25,7 +25,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 6 - [Preprocesamiento de datos](https://github.com/jnserna/DS_Basic/tree/main/Preprocesamiento%20de%20datos)
 
-7 - Operaciones básicas con datasets
+7 - Operaciones básicas con matrices
 
 8 - Modelos de regresión
 
