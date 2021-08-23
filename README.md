@@ -29,7 +29,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 8 - [Modelos de regresión](https://github.com/jnserna/DS_Basic/tree/main/Modelos%20de%20regresi%C3%B3n)
 
-9 - Modelos de clasificación
+9 - [Modelos de clasificación](https://github.com/jnserna/DS_Basic/tree/main/Modelos%20de%20clasificaci%C3%B3n)
 
 10 - Métodos de segmentación natural y estratégica
 
