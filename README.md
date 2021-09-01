@@ -31,7 +31,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 9 - [Modelos de clasificación](https://github.com/jnserna/DS_Basic/tree/main/Modelos%20de%20clasificaci%C3%B3n)
 
-10 - Métodos de segmentación natural y estratégica
+10 - [Clustering y ensambles](https://github.com/jnserna/DS_Basic/tree/main/Clustering%20y%20Ensambles)
 
 11 - BigData y Databricks en ciencia de datos
 
