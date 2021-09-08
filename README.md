@@ -33,7 +33,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 10 - [Clustering y ensambles](https://github.com/jnserna/DS_Basic/tree/main/Clustering%20y%20Ensambles)
 
-11 - BigData y Databricks en ciencia de datos
+11 - Aplicaciones
 
-12 - Automatización de modelos
+12 - Bases de datos y Azure
 
