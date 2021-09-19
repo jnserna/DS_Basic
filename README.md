@@ -33,7 +33,7 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 10 - [Clustering y ensambles](https://github.com/jnserna/DS_Basic/tree/main/Clustering%20y%20Ensambles)
 
-11 - Aplicaciones
+11 - [Aplicaciones](https://github.com/jnserna/DS_Basic/tree/main/Aplicaciones)
 
 12 - [Bases de datos y Azure](https://github.com/jnserna/DS_Basic/tree/main/12%20Bases%20de%20datos%20y%20Azure)
 
