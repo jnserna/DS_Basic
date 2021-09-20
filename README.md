@@ -35,5 +35,5 @@ Ver/Descargar Manual básico de instalación de Anaconda [aquí](https://github.
 
 11 - [Aplicaciones](https://github.com/jnserna/DS_Basic/tree/main/Aplicaciones)
 
-12 - [Bases de datos y Azure](https://github.com/jnserna/DS_Basic/tree/main/12%20Bases%20de%20datos%20y%20Azure)
+12 - [Bases de datos y Azure](https://github.com/jnserna/DS_Basic/tree/main/Bases%20de%20datos%20y%20Azure)
 
